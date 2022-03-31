@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.homebutton {
+  background-color: rgb(55, 139, 212);
+  height: 50px;
+}
+
+.homebutton-icon {
+  height: 45px;
+  padding: 5px;
+}
+
+.homepage {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
